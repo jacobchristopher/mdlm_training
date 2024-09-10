@@ -1,0 +1,7 @@
+train: openwebtext-train
+valid: openwebtext-valid
+tokenizer_name_or_path: /p/vast1/MLdata/Llama/SEDD-Llama-3.1-Vocab/
+cache_dir: /p/lustre2/christopher9/.cache
+wrap: True
+streaming: False
+
